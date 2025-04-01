@@ -1,0 +1,23 @@
+header{
+    background-color:rgb(227, 227, 243);
+
+}
+h1{
+    text-align: center;
+}
+
+ 
+ 
+body{
+    background-color: yellow;
+}
+
+.box{
+
+    border: 4px solid #03055f;
+    border-radius: 8px;
+    padding: 1.5rem;
+    background-color: rgb(148, 161, 159);
+    box-shadow: 0 4px 6px rgba(3, 5, 99, 0.1);
+    margin-bottom: 2rem;
+}
